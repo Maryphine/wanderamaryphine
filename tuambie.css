@@ -1,0 +1,23 @@
+#para{background-image: gt2.png;
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+.design{padding-right: 30em;
+padding-left:30em;
+margin-top: 30em;
+text-align: left;
+}
+
+#home{background-image: url(comp5.jpg);}
+
+#form{background-color: magenta;
+padding-left:40em;
+padding-right: 40em
+}
+
+#para{margin-left: 50em;
+margin-right:50em;
+margin-bottom: 50em;
+margin-top: 50em
+}

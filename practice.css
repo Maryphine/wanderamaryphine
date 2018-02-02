@@ -1,0 +1,9 @@
+.ubc{background-color: #342D7E;
+	font-family: Nakula;
+	font-size: 15px;
+	font-kerning: 2px
+}
+#ima{background-image: url(th.jpeg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
